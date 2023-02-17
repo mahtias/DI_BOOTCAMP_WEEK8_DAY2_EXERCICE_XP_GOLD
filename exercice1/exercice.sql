@@ -26,4 +26,8 @@ SET address = 'N'' dotre, Abobo, Abidjan, Côte d''ivoire'
 WHERE address_id = 123;
 
 
+DELETE *
+FROM students
+where ();
+
 
