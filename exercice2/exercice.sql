@@ -29,8 +29,8 @@ CREATE TABLE students (
     - last_name: Simpson
     - first_name: Omer
     - birth_date: 03/10/1980
-    - last_name: Konate
-    - first_name: Mamadou
+    - last_name: Abou
+    - first_name: kolo
     - birth_date: 01/10/1999*/
 INSERT INTO students (last_name, first_name, birth_date)
 VALUES ('Marc', 'Bénichou', '1998-11-02'),
@@ -39,7 +39,7 @@ VALUES ('Marc', 'Bénichou', '1998-11-02'),
 ('Amélia', 'Dux', '1996-04-07'),
 ('David', 'Grez', '2003-06-14'),
 ('Omer', 'Simpson', '1980-10-03'),
-('Mamadou', 'Konate', '199-10-01'); /* Replace the values with your own */
+('Abou', 'Kolo', '199-10-01'); /* Replace the values with your own */
 
 
 /*Select all the students from the students table.*/

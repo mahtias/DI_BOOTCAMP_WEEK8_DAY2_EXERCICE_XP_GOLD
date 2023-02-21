@@ -15,14 +15,14 @@ ORDER BY title ASC;
 
 /*modifier les informations du client 123*/
 UPDATE customer
-SET first_name = 'Mamadou K', last_name = 'Konate', email = 'kmk@example.com'
+SET first_name = 'Adou', last_name = 'Konan', email = 'adou@.com'
 WHERE customer_id = 123;
 
 
 /*modifier l'adresse de l'adresse 123*/
 
 UPDATE address
-SET address = 'N'' dotre, Abobo, Abidjan, Côte d''ivoire'
+SET address = 'Abidajn , Côte d''ivoire'
 WHERE address_id = 123;
 
 
